@@ -4,7 +4,7 @@ Aimbots for aimtrainer.io & Aim Lab's Grid Shot, using multiple methods.
 ## Installation
 * Navigate to this folder directory using `cd`
 * Run `python -m venv env` to create a virtual environment
-* Run one of the following depending on your OS
+* Activate the venv (Using one of the following commands, or one like it)
     * `source env/bin/activate` (Mac/Linux)
     * `.\env\Scripts\activate` (Windows)
 * Run `pip install -r requirements.txt` to install all the dependencies
@@ -13,7 +13,7 @@ Aimbots for aimtrainer.io & Aim Lab's Grid Shot, using multiple methods.
 * Ensure your screen resolution is 1920x1080 or under (that exact resolution works best!)
 * Also ensure scaling is set to 100% (Under Settings > Display .. "Scale and layout" on Windows 10).
 * Navigate to this folder directory using `cd`
-* Run one of the following depending on your OS
+* Activate the venv (Using one of the following commands, or one like it)
     * `source env/bin/activate` (Mac/Linux)
     * `.\env\Scripts\activate` (Windows)
 * Choose which method and scenario you'd like to test, and run the relavent python script:
