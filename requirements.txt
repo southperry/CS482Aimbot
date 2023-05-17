@@ -1,0 +1,8 @@
+numpy
+keyboard
+Pillow
+pypiwin32
+scikit-learn
+PyAutoGUI
+opencv-python
+ultralytics
